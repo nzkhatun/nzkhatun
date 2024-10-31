@@ -6,4 +6,11 @@ I am Nurjahan Khatun. I am a professional WordPress Developer, Digital Marketing
 
 Skills: HTML/CSS/JavaScript/php/python/SQL
 
-- 🔭 I’m currently working at my own Freelancer base Software firm. 
+- 🔭 I’m currently working on Sarah Software Services 
+- 🌱 I’m currently learning Eithical Hacking, Python, WordPress Development 
+- 🤔 I’m looking for help with https://shafiulazam.me/nzkhatun 
+- 📫 How to reach me: https://shafiulazam.me/nzkhatun 
+
+
+
+
