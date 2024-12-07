@@ -29,4 +29,4 @@ Skills: HTML / CSS / WordPress / CEH / Keyword Research / Competator Analysis
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/nzkhatun)  
 
-![image](https://github.com/user-attachments/assets/3a646040-8d73-4cd6-85e4-011e39d06744)
+
